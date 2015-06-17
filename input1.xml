@@ -1,0 +1,32 @@
+<data>
+    <bank name="Райффайзен">
+        <url>http://www.aval.ua/</url>
+        <buy>//*[@id="bar-right"]/div[1]/div/div[1]/table/tbody/tr[2]/td[2]</buy>
+        <sale>//*[@id="bar-right"]/div[1]/div/div[1]/table/tbody/tr[2]/td[3]</sale>
+    </bank>
+    <bank name="Credit Agricole">
+        <url>https://credit-agricole.ua/</url>
+        <buy>//*[@id="rates_body"]/table/tbody/tr[2]/td[2]</buy>
+        <sale>//*[@id="rates_body"]/table/tbody/tr[2]/td[3]</sale>
+    </bank>
+    <bank name="Укрексімбанк">
+        <url>https://www.eximb.com/ukr/personal/</url>
+        <buy>//*[@id="bodytable"]/tbody/tr[1]/td[2]/table[2]/tbody/tr/td[1]/div[3]/div/div/div/div/div/div/div/table[1]/tbody/tr[2]/td[2]</buy>
+        <sale>//*[@id="bodytable"]/tbody/tr[1]/td[2]/table[2]/tbody/tr/td[1]/div[3]/div/div/div/div/div/div/div/table[1]/tbody/tr[2]/td[3]</sale>
+    </bank>
+    <bank name="Universal Bank">
+        <url>http://www.universalbank.com.ua/</url>
+        <buy>//*[@id="box"]/table[2]/tr/td[1]/div/div/table/tr[2]/td[2]</buy>
+        <sale>//*[@id="box"]/table[2]/tr/td[1]/div/div/table/tr[2]/td[3]</sale>
+    </bank>
+    <bank name="International invest bank">
+        <url>http://www.ii-bank.com.ua//</url>
+        <buy>//*[@id="currency_table"]/tbody/tr/td/table/tbody/tr[3]/td[2]</buy>
+        <sale>//*[@id="currency_table"]/tbody/tr/td/table/tbody/tr[3]/td[3]</sale>
+    </bank>
+    <bank name="IdeaBank">
+        <url>http://www.ideabank.ua/</url>
+        <buy>//*[@id="rates"]/table[1]/tbody/tr[2]/td[2]</buy>
+        <sale>//*[@id="rates"]/table[1]/tbody/tr[2]/td[3]</sale>
+    </bank>
+</data>

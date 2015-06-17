@@ -1,0 +1,17 @@
+<data>
+    <bank name="ПриватБанк">
+        <url>https://privatbank.ua/ua/</url>
+        <buy>//*[@id="selectByPB"]/tr[3]/td[2]</buy>
+        <sale>//*[@id="selectByPB"]/tr[3]/td[3]</sale>
+    </bank>
+    <bank name="Universal Bank">
+        <url>http://www.universalbank.com.ua/</url>
+        <buy>//*[@id="box"]/table[2]/tr/td[1]/div/div/table/tr[2]/td[2]</buy>
+        <sale>//*[@id="box"]/table[2]/tr/td[1]/div/div/table/tr[2]/td[3]</sale>
+    </bank>
+    <bank name="PUMB">
+        <url>http://pumb.ua/en/</url>
+        <buy>//*[@id="tab1"]/div/table/tbody/tr[2]/td[2]/strong</buy>
+        <sale>//*[@id="tab1"]/div/table/tbody/tr[2]/td[3]/strong</sale>
+    </bank>
+</data>

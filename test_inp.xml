@@ -1,0 +1,7 @@
+<data>
+    <bank name="Банк">
+        <url>https:/</url>
+        <buy>//*[@id="selectByB"]/tr[2]/td[2]</buy>
+        <sale>//*[@id="selectByB"]/tr[2]/td[3]</sale>
+    </bank>
+</data>
